@@ -650,7 +650,8 @@
 
 - [@Favskid](https://github.com/Favskid/)
 
-- [@nolazheng](https://github.com/nolazheng)
+- [@nolazheng](
+- https://github.com/nolazheng)
 
 - [@mAmineSouissi](https://github.com/mAmineSouissi)
 
@@ -723,3 +724,5 @@
 - [@ssegevv](https://github.com/ssegevv)
 
 - [@Osilama-lab](https://github.com/Osilama-lab)
+
+- [@gurudasbee](https://github.com/gurudasbee)
